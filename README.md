@@ -18,3 +18,7 @@
 - `https://raw.githubusercontent.com/beaheadd/9qum-videos/main/chess/ru/01.mp4`
 - `https://raw.githubusercontent.com/beaheadd/9qum-videos/main/oware/ru/01.mp4`
 - `https://raw.githubusercontent.com/beaheadd/9qum-videos/main/mangala/ru/01.mp4`
+
+## welcome/ — «Что умеет 9qum» (приветствие с главной)
+`welcome/<lang>.mp4` + `welcome/<lang>.jpg` для ru, kk, en, tr, fr, es, uz (720p, ~1 мин). Показывать каждому языку сайта свой ролик;
+в `videos.json` — записи с `"course": "welcome"`, `"lang": "<код>"`.
